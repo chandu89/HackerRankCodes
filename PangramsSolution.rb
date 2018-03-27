@@ -4,4 +4,4 @@ class Pangram
     return (flag ? "pangram" : "not pangram")
   end
 end
-Pangram.pangrams("We promptly judged antique ivory buckles for the next prize")
+puts Pangram.pangrams("We promptly judged antique ivory buckles for the next prize")
