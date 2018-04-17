@@ -1,0 +1,25 @@
+League Table Code Test
+
+First copy the following game results into a text file.
+
+Leicester City 1 - Watford 2
+Leicester City 0 - Burnley 0
+Watford 2 - Burnley 0
+Burnley 2 - Liverpool 2
+Liverpool 1 - Watford 4
+Watford 0 - Leicester City 0
+Burnley 2 - Leicester City 3
+Watford 1 - Liverpool 2
+Liverpool 2 - Leicester City 1
+Burnley 1 - Watford 2
+Leicester City 3 - Liverpool 3
+Liverpool 2 - Burnley 2
+
+Then using Ruby/Java/Python read the text file and output the teams ordered by their points. A team gets 3 points for a win, 1 point for a draw and 0 for a loss.
+
+Sample output:
+
+1. (TEAM NAME) - Played (x), Won (x), Drawn (x), Lost (x), Points (x)
+2. (TEAM NAME) - Played (x), Won (x), Drawn (x), Lost (x), Points (x)
+3. (TEAM NAME) - Played (x), Won (x), Drawn (x), Lost (x), Points (x)
+4. (TEAM NAME) - Played (x), Won (x), Drawn (x), Lost (x), Points (x)
